@@ -1,2 +1,3 @@
 # fraude_creditcard
-Detection de fraude par carte de crédit
+
+Ce répertoire présente mon projet sur la modélisation de la fraude par carte de crédit en utilisant des techniques de machine learning.
